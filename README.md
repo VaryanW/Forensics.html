@@ -1,35 +1,10 @@
-# Forensics.html
+# Forensics
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Digital Forensics - CIA of Evidence</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      line-height: 1.6;
-      background-color: #fff;
-      color: #333;
-    }
-    code, pre {
-      background-color: #f4f4f4;
-      padding: 5px;
-      display: block;
-      white-space: pre-wrap;
-      border-left: 4px solid #ccc;
-      margin-bottom: 1em;
-    }
-    h1, h2, h3, h4 {
-      color: #2c3e50;
-    }
-    .note {
-      font-style: italic;
-      background: #ffffcc;
-      padding: 1em;
-      border-left: 5px solid #999900;
-    }
-  </style>
+ 
 </head>
 <body>
 
