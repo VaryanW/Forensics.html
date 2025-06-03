@@ -13,7 +13,7 @@
 
 <p>This was from and exercise early on in a Cyber Security Bootcamp, and I did not capture any screenshorts, therefore this page will be simple and contain the steps take and explain why they were done.<br>
 Also this information was from my first submission, before I went back after grading, but didn't save the revised version. So bear with me and the errors that may be within. I did check most of the terminal commands on a VM and they seemed to work, but didn't have the information the supplied vm had, so that was the best I could do.</p>
-<h1>DISCLAIMER: to reduce the likelyhood of this document being used to easily get through work that is meant to educate, and help people grow, I will be omitting the pseudo company name given for this assignment, as well as not mentioning the course itself.</h1>
+<h2>DISCLAIMER: to reduce the likelyhood of this document being used to easily get through work that is meant to educate, and help people grow, I will be omitting the pseudo company name given for this assignment, as well as not mentioning the university or course itself.</h2>
 
 <h3>The scenario</h3>
 
