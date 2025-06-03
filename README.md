@@ -6,7 +6,7 @@
 <h1>Using commands and simple tools to maintain the CIA (Confedentiality, Integrity, and Availability) of digital forensic evidence</h1>
 
 <p>This was from and exercise early on in a Cyber Security Bootcamp, and I did not capture any screenshorts, therefore this page will be simple and contain the steps take and explain why they were done.<br>
-Also this information was from my first submission, before I went back after grading, but didn't save the revised version. So bear with me and the errors that may be within. I did check most of the terminal commands on a VM and they seemed to work, but didn't have the information the supplied vm had, so that was the best I could do.</p>
+Also this information was from my first submission, before I went back after grading, but didn't save the revised version. So bear with me and the errors that may be within. I did check most of the terminal commands on a VM and they seemed to work, but didn't have the information the supplied vm had, so that was the best I could do.<br></p>
 <h2>DISCLAIMER: to reduce the likelyhood of this document being used to easily get through work that is meant to educate, and help people grow, I will be omitting the pseudo company name given for this assignment, as well as not mentioning the university or course itself.</h2>
 
 <h3>The scenario</h3>
@@ -15,7 +15,7 @@ Also this information was from my first submission, before I went back after gra
 
 <p>I am playing the role of a Security Analyst at a financial company. It is my job (and those in my department I would assume) to check and ensure infroatmion remains accurate and available. I created a program (a simple script) to run two tools.
 1. Log size management using (logrotate) to help automate the process of rotating logs and archiving them for investigation if needed.
-2. Log auditing with (auditd) to track events, record the events, detect abuse or unauthorized activity, and create custom reports.</p>
+2. Log auditing with (auditd) to track events, record the events, detect abuse or unauthorized activity, and create custom reports. <br><br> I was unable to find the complete prompt, as my access to this couse has ended at the time of making this repo. Therefore, there are gaps within the general story.</p>
 
 <h4>Next I'll go into some of the details on setting up the environment (most of the log files were already created).</h4>
 
