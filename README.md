@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Digital Forensics - CIA of Evidence</title>
+  <h2>Digital Forensics - CIA of Evidence</h2>
  
 </head>
 <body>
