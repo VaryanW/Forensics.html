@@ -1,13 +1,7 @@
 # Forensics
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <h2>Digital Forensics - CIA of Evidence</h2>
- 
-</head>
 <body>
-
-<h1>Digital Forensics - </h1>
 
 <h1>Using commands and simple tools to maintain the CIA (Confedentiality, Integrity, and Availability) of digital forensic evidence</h1>
 
