@@ -124,7 +124,8 @@ Max_log:= 7</code></pre>
 <p>Command to produce an audit report:</p>
 <pre><code>sudo cat /var/log/audit/audit.log</code></pre>
 
-<p>Create a user with <code>sudo useradd attacker</code> and produce an audit report that lists account modifications:</p>
+<p>Command to create sudo user</p>
+<pre></pre><code>sudo useradd attacker</code> and produce an audit report that lists account modifications:</pre>
 <pre><code>sudo useradd attacker
 sudo usermod -aG sudoer attacker</code></pre>
 
